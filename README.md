@@ -1,21 +1,20 @@
-# CodeSonia Portfolio
+# Muhammad Shehroze Portfolio
 
-## Code Institute Milestone Project: User-Centric Frontend Development
-
-![CodeSonia logo](/assets/images/code_sonia_logo.png)
+## Code Institute Milestone Project: User-Centric  Development
 
 
-Welcome to my portfolio website. CodeSonia is myself and a brand that I have built for this project. You will find a fun, interactive website that showcases my skills, work history and recent projects. 
 
-A live website can be found [here](https://codesonia.github.io/CodeSonia_Personal_Portfolio/)
+Welcome to my portfolio website. Muhammad Shehroze is myself and a brand that I have built for this project. You will find a fun, interactive website that showcases my skills, work history and recent projects. 
 
-![tech mockup of website](/assets/images/multiple_device_mockup.png)
+A live website can be found [here](https:https://shehroze-portfolio.netlify.app/)
 
-![floating design mockup](/assets/images/floating_mockup.png)
+![tech mockup of website](/assets/images/sharimain.png.png)
+
+![floating design mockup](/assets/images/portfolio_research.png)
 
 Take a read below, and see why I have chosen to put in place certain features. 
 
-[Back To Top](#codesonia-portfolio)
+[Back To Top](#Muhammad Shehroze portfolio)
 
 # Table of Contents
 - [UX](#ux)
@@ -45,7 +44,7 @@ Take a read below, and see why I have chosen to put in place certain features.
 
 Before writing any code, I did some user research. I used Jesse James Garett's user-centred Design process to ensure my website is useful, usable and provides value to both targeted users and myself as the product owner. 
 
-Throughout the development of CodeSonia I ensured that I kept the user in mind and ensuring the website is:
+Throughout the development of Muhammad Shehroze I ensured that I kept the user in mind and ensuring the website is:
 
 - Useful: useful to the user who wants to interact with your product.
 - Useable: when interacting with your product, it is also an enjoyable experience - it generates a positive emotional response.
@@ -53,7 +52,7 @@ Throughout the development of CodeSonia I ensured that I kept the user in mind a
 
 [Back To Table of Contents](#table-of-contents)
 
-[Back To Top](#CodeSonia)
+[Back To Top](#Muhammad Shehroze)
 
 ## Strategy
 ### Project goal: To get noticed 
@@ -73,8 +72,8 @@ This has led me to identify the goals and helped guide my project below.
 
 #### User Values:
 1. Help users achieve their goals
-  - Learn about CodeSonia
-2. Help advance CodeSonia's (product owner) goals
+  - Learn about Muhammad Shehroze
+2. Help advance Muhammad Shehroze's (product owner) goals
 
 [Back To UX](#UX)
 
@@ -88,7 +87,7 @@ This has led me to identify the goals and helped guide my project below.
 
 Users should have the ability to reach out to me, provided the contact information is correct. They should find the website easy to navigate and allow them to gain knowledge about me as a potential employee. They should be able to see my skills, previous work experience and competencies. I would also want them to access recent work/projects that I have been working on to showcase that I can code using different languages. 
 
-To achieve this goal and to stand out amongst other developers, the online website will be more than a CV. As when the user is introduced to the site it should elicit a positive emotional response. This means finding the site intuitive, enjoyable and straightforward. Rather than telling prospective employers about CodeSonia's skills, CodeSonia bridges the knowledge gap by providing case examples of completed projects to showcase CodeSonia's skills.
+To achieve this goal and to stand out amongst other developers, the online website will be more than a CV. As when the user is introduced to the site it should elicit a positive emotional response. This means finding the site intuitive, enjoyable and straightforward. Rather than telling prospective employers about Muhammad Shehroze's skills, Muhammad Shehroze bridges the knowledge gap by providing case examples of completed projects to showcase Muhammad Shehroze's skills.
 
 As well as this, my goal is to use the portfolio website to build a personal brand. But, as I have no commercial experience, this is not an essential priority. As I evolve and gain industry experience, I will be able to showcase my personality.
 
@@ -97,9 +96,9 @@ As well as this, my goal is to use the portfolio website to build a personal bra
 [Back To Table of Contents](#table-of-contents)
 
 #### User Expectations:
-The content should give me the necessary information about who is CodeSonia.
-- Can I contact Sonia?
-- Can I access personal details, work history and skillset? This is so I can assess if CodeSonia is the right fit for me.
+The content should give me the necessary information about who is Muhammad Shehroze.
+- Can I contact Shehroze?
+- Can I access personal details, work history and skillset? This is so I can assess if Muhammad Shehroze is the right fit for me.
 - The user interface is easy to navigate.
 - Can I access the website on mobile, and is it responsive?
 - I want to be able to view her previous projects and work.
@@ -107,19 +106,19 @@ The content should give me the necessary information about who is CodeSonia.
 ### User Stories:
 
 As a product owner...
-- I want to humanise my brand and showcase who CodeSonia is by providing an image, contact information, and a story to increase CodeSonia’s brand awareness.
+- I want to humanise my brand and showcase who Muhammad Shehroze is by providing an image, contact information, and a story to increase Muhammad Shehroze’s brand awareness.
 - I want to illustrate my projects so that I can appeal to prospective recruiters/employers.
 - I want to provide the ability for users to contact me with any requests, or with the ability to book a friendly conversation for networking purposes.
-- I want to provide my social media channels, to personify CodeSonia.
-- I want to showcase CodeSonia in her best light by providing her most significant achievements to convey the message that CodeSonia is motivated, passionate and driven in any work setting.
-- I want to illustrate CodeSonia’s technical skills in a visual format so that employers/recruiters gain a better understanding of the skillset.
-- I want to illustrate other skills in a fun, engaging format so that users can see that CodeSonia has soft skills that are also required for the roles they are advertising.
-- I want to showcase CodeSonia’s work history so that employers can gain a better understanding of the experience learned.
-- I want to showcase CodeSonia’s educational background to illustrate the different qualifications have been achieved.
-- I want users to have positive, enjoyable user experience with CodeSonia’s so that they can come back to the site, contact the user with prospective job opportunities. 
+- I want to provide my social media channels, to personify Muhammad Shehroze.
+- I want to showcase Muhammad Shehroze in her best light by providing her most significant achievements to convey the message that Muhammad Shehroze is motivated, passionate and driven in any work setting.
+- I want to illustrate Muhammad Shehroze’s technical skills in a visual format so that employers/recruiters gain a better understanding of the skillset.
+- I want to illustrate other skills in a fun, engaging format so that users can see that Muhammad Shehroze has soft skills that are also required for the roles they are advertising.
+- I want to showcase Muhammad Shehroze’s work history so that employers can gain a better understanding of the experience learned.
+- I want to showcase Muhammad Shehroze’s educational background to illustrate the different qualifications have been achieved.
+- I want users to have positive, enjoyable user experience with Muhammad Shehroze’s so that they can come back to the site, contact the user with prospective job opportunities. 
 - I want to provide a downloadable format of the CV so that users can have access to a traditional form of CV besides a portfolio.
 - I want developers or start-ups to feel that they can quickly request to collaborate on a project.
-- I want to showcase CodeSonia in her best light and that she is passionate about things within the tech industry, or females trying to get into tech - thought leadership exercise.
+- I want to showcase Muhammad Shehroze in her best light and that she is passionate about things within the tech industry, or females trying to get into tech - thought leadership exercise.
 - I want users to quickly identify what page of the website they are on and can easily navigate from one section to another section without any hassle = ensure positive user journey at all touchpoints!
 
 As a recruiter...
@@ -129,7 +128,7 @@ As a recruiter...
 - I want to be able to book some time with the developer on their website so that I can avoid time hassle.
 - I want to be able to connect the developer using LinkedIn or professional social media channels to keep up to date with the developer’s work history or any changes.
 - I expect to be able to quickly get in contact via an easy to use the contact form so that I can build a relationship or present any job opportunities at hand.
-- Having access to CodeSonia’s background and work history provides them with a brief overview of CodeSonia’s competencies, technical & soft skills.
+- Having access to Muhammad Shehroze’s background and work history provides them with a brief overview of Muhammad Shehroze’s competencies, technical & soft skills.
 - I want to view the developer’s educational background to see how they got into software development/coding.
 - If accessing the developer’s site on mobile or tablet, I expect the website to be mobile friendly and can adhere to different devices so that I can easily navigate on smaller devices.
 - I want to see a word or pdf format of the CV so that I can assess the candidate’s work history and skills to ascertain if they are the right person for the job and pass their details and link the portfolio to my clients.
@@ -314,7 +313,7 @@ There are many other differences, but I believe once you try an idea out and it 
 ## Surface 
 
 ### Colours 
-Please find my colour schemes [here](colors/colour_schemes.pdf). Please also note that I did not use all colours. But, I did pick a colour and used a lighter hue. These colour schemes are intentionally picked. I was thinking what sort of message I wanted to convey on who CodeSonia is. 
+Please find my colour schemes [here](colors/colour_schemes.pdf). Please also note that I did not use all colours. But, I did pick a colour and used a lighter hue. These colour schemes are intentionally picked. I was thinking what sort of message I wanted to convey on who Muhammad Shehroze is. 
 
 #### Pink:
 - Playful
@@ -353,7 +352,7 @@ In this section, you should go over the different parts of your project, and des
 #### All sections:
 
 - Social media links - all links load onto a new tab allowing the user to be aware of where they have come from. It also has a hover effect and changes colour, further enhancing user experience. 
-- Imagery - I used FreePik, Affinity Photo and Designer to create this. The vector graphics help inject emotion and humanity into the website. It also helps create a unique brand identity for CodeSonia.
+- Imagery - I used FreePik, Affinity Photo and Designer to create this. The vector graphics help inject emotion and humanity into the website. It also helps create a unique brand identity for Muhammad Shehroze.
 Shadow - cards on about and portfolio have a shadow effect. This is to help create a 3D effect and help bring life. 
 - White space - There is a lot of whitespace amongst sections. I tried to steer away from creating full-bleed imagery. Instead, I used colours to help make these sections 'pop' and stand out.
 - Gradient colours - buttons and imagery have this effect adding dynamic to the site. 
@@ -371,7 +370,7 @@ Shadow - cards on about and portfolio have a shadow effect. This is to help crea
 - Email - uses a mailto in the href so it can easily open a user's mailbox. Again, trying to help users and be intuitive. It also allows users to quickly get in contact with me as it eases the process.
 
 #### Skills
-- Bootstrap progress bars - a visual aid so users can view how confident CodeSonia is. They also have an effect when you hover them, providing interactive features to a static page.
+- Bootstrap progress bars - a visual aid so users can view how confident Muhammad Shehroze is. They also have an effect when you hover them, providing interactive features to a static page.
 - Strengths - SVG circles to help build brand personality and adds character. It gives employers and recruiters a better understanding of how I may fit in their work culture. They also have a bounce hover effect of providing interactiveness. 
 
 #### Portfolio
@@ -401,7 +400,7 @@ Shadow - cards on about and portfolio have a shadow effect. This is to help crea
 - Submit function on modal form should reset - this currently does not work.
 
 #### General maintenance
-- CodeSonia should always remain consistent, relevant and provide accurate information. For this reason, every year, the website will be updated with new information. 
+- Muhammad Shehroze should always remain consistent, relevant and provide accurate information. For this reason, every year, the website will be updated with new information. 
 
 [Back To Features](#features)
 
@@ -485,7 +484,7 @@ Here are a couple of errors flagged and rectified:
 ### W3C Validator Tools
 
 - An `img` element must have an alt attribute, except under certain conditions:
-  `<img src="assets/images/contact_sonia_laptop.png" class="img-size">`
+  `<img src="assets/images/contact_Shehroze_laptop.png" class="img-size">`
 
   **Solution**
   - I added the missing alt tag to help screenreaders identify what the image is and/or as a back-up solution if the image fails to load
@@ -550,7 +549,7 @@ Some elements of my project had a low contrast, although when I checked on Googl
 #### User Stories 
 - Please view a step-by-step user stories[here](assets/testing/testing_user_stories.pdf)
 
-I carried out manual testing on the finalised development of CodeSonia. Click [here](/assets/testing/testing.md) for a report which tested the functionality, usability and responsiveness.
+I carried out manual testing on the finalised development of Muhammad Shehroze. Click [here](/assets/testing/testing.md) for a report which tested the functionality, usability and responsiveness.
 
 I have tested my site on Safari, and Google Chrome and the website looks fine and works as intended. I have also tested on the following devices:
 - iPhone X
@@ -566,7 +565,7 @@ I have tested my site on Safari, and Google Chrome and the website looks fine an
 [Back To Table of Contents](#table-of-contents)
 # Deployment
 
-CodeSonia project was deployed to GitHub pages. In order to deploy a project onto GitHub, please view the following steps:
+Muhammad Shehroze project was deployed to GitHub pages. In order to deploy a project onto GitHub, please view the following steps:
 
 1. Log onto GitHub or create an account 
 
@@ -608,7 +607,7 @@ CodeSonia project was deployed to GitHub pages. In order to deploy a project ont
 
 ## Running Code Locally 
 
-To run my code locally, users can clone this by clicking on the targeted repo, click 'clone or download' and 'download zip'. Or you could paste git clone git@github.com:CodeSonia/CodeSonia_Personal_Portfolio.git into the terminal and type `git remote rm` original to remove itself from the repo.
+To run my code locally, users can clone this by clicking on the targeted repo, click 'clone or download' and 'download zip'. Or you could paste git clone git@github.com:Muhammad Shehroze/Muhammad Shehroze_Personal_Portfolio.git into the terminal and type `git remote rm` original to remove itself from the repo.
 
 ## Forking a GitHub Repo
 
@@ -653,7 +652,7 @@ I would like to give special thanks to:
 
 Thank you for taking the time to read my project. 
 
-[Back To Top](#codesonia-portfolio)
+[Back To Top](#Muhammad Shehroze-portfolio)
 
 
 
