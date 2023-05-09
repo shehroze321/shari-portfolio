@@ -6,9 +6,9 @@
 
 Welcome to my portfolio website. Muhammad Shehroze is myself and a brand that I have built for this project. You will find a fun, interactive website that showcases my skills, work history and recent projects. 
 
-A live website can be found [here](https:https://shehroze-portfolio.netlify.app/)
+A live website can be found [here](https://shehroze-portfolio.netlify.app/)
 
-![tech mockup of website](/assets/images/sharimain.png.png)
+![tech mockup of website](/assets/images/sharimain.png)
 
 ![floating design mockup](/assets/images/portfolio_research.png)
 
